@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://danielestangui.github.io/wp-content/uploads/2024/05/cropped-logo-1-32x32.png</url>
+	<title>Daniel Estangüi</title>
+	<link>https://danielestangui.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://danielestangui.github.io/hello-world/</link>
